@@ -1,0 +1,30 @@
+import java.util.*;
+public class DI_Strings {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s =  sc.next();
+        System.out.println(smallestNumber(s));
+    }
+    public static String smallestNumber(String s){
+        String ans ="";
+        int arr[]=new int[s.length()];
+        int c=1;
+        int j=0;
+        for(int i=0;i<s.length();i++){
+            if(i==s.length() || s.charAt(i)=='I'){
+                arr[i]=c;
+                c++;
+                j=i-1;
+                while(j>=0 && s.charAt(j)=='D'){
+                    arr[j]=c++;
+                    j--;
+                }
+            }
+
+        }
+        for(int i=0;i<arr.length;i++){
+            ans+=""+arr[i];
+        }
+        return ans;
+    }
+}
