@@ -40,6 +40,7 @@ class Solve {
                 ans[0]=arr[i];
             }
         }
+        
         int sum = 1;
         for (int i = 0; i < n; i++) {
             if (arr[i] == sum)
