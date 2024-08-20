@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
