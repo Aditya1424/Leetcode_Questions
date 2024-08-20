@@ -87,16 +87,16 @@ public:
         // solve(mat, 0,0, maxi);
         // return maxi*maxi;
         
-        // int n= mat.size();
-        // int m= mat[0].size();
-        // vector<vector<int>> dp(n,vector<int>(m,-1));
-        // int maxi=0;
-        // solveMem(mat, 0,0,maxi, dp);
-        // return maxi*maxi;
-        
+        int n= mat.size();
+        int m= mat[0].size();
+        vector<vector<int>> dp(n,vector<int>(m,-1));
         int maxi=0;
-        solveTab(mat, maxi);
+        solveMem(mat, 0,0,maxi, dp);
         return maxi*maxi;
+        
+        // int maxi=0;
+        // solveTab(mat, maxi);
+        // return maxi*maxi;
 
     }
 };
