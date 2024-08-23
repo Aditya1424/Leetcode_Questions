@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
 ## Matrix
