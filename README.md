@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
+## Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
