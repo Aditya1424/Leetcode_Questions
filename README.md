@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -125,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
