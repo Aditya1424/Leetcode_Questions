@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Breadth-First Search
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
