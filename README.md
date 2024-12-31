@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-minimum-cost-for-tickets](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Breadth-First Search
