@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
