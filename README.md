@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
