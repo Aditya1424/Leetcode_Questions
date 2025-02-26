@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
