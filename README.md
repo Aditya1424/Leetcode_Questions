@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
