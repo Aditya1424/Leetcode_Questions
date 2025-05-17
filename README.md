@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
