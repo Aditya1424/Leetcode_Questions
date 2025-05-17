@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [3447-clear-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
