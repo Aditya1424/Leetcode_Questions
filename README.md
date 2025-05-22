@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0048-rotate-image) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
