@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
