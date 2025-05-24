@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3194-find-words-containing-character](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
