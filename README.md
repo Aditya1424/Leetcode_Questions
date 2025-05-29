@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0279-perfect-squares) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
