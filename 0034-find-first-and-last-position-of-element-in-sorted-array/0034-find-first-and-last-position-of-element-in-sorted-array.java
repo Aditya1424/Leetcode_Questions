@@ -4,7 +4,11 @@ class Solution {
         int lb= lowerBound(nums,target);
         int ub= upperBound(nums,target);
         
-        return new int[]{lb,ub};
+       if(lb==-1){
+        return new int[]{-1,-1};
+       }
+
+       return new int[]{lb,ub};
        
           
     }
@@ -17,14 +21,15 @@ class Solution {
 
         while(low<= high){
             int mid= low+(high-low)/2;
-            if(nums[mid]>=target){
-                high= mid-1;
-            }
-            else{
-                low= mid+1;
-            }
             if(nums[mid]==target){
                 ans= mid;
+                high= mid-1;
+            }
+            else if(nums[mid]<target){
+                low= mid+1;
+            }
+            else{
+                high= mid-1;
             }
         }
         return ans;
@@ -39,14 +44,15 @@ class Solution {
 
         while(low<= high){
             int mid= low+(high-low)/2;
-            if(nums[mid]<=target){
+            if(nums[mid]==target){
+                ans= mid;
                 low= mid+1;
             }
-            else{
+            else if(nums[mid]>target){
                 high= mid-1;
             }
-            if(nums[mid]==target){
-                ans=mid;
+            else{
+                low= mid+1;
             }
         }
         return ans;
