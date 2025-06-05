@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
