@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0792-binary-search) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
