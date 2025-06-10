@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0221-maximal-square) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
