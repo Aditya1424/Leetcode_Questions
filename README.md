@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
