@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0031-next-permutation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
