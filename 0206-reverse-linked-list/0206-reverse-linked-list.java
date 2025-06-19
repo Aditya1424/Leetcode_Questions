@@ -9,7 +9,12 @@
  * }
  */
 class Solution {
+    // BruteForce--> Using stack
+    // TC--> O(2N)
+    // SC--> O(N)
     public ListNode reverseList(ListNode head) {
+        // TC--> O(N)
+        // SC--> O(1)
         ListNode curr= head;
         ListNode prev= null;
 
