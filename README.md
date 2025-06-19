@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
