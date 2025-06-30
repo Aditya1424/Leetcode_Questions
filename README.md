@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0792-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya1424/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya1424/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Aditya1424/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aditya1424/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
